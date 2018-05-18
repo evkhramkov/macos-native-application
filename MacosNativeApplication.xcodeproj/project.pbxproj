@@ -431,8 +431,8 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.evkhramk.MacosNativeApplication;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "4d0c35f0-6330-4820-afe2-918243b97a52";
-				PROVISIONING_PROFILE_SPECIFIER = "MacosNativeApplication-developer-id";
+				PROVISIONING_PROFILE = "9491756e-ac1c-4734-93c8-c9ad3b8da7ed";
+				PROVISIONING_PROFILE_SPECIFIER = "mac-devloper-id";
 				SWIFT_VERSION = 4.0;
 			};
 			name = Debug;
@@ -453,8 +453,8 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.evkhramk.MacosNativeApplication;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "4d0c35f0-6330-4820-afe2-918243b97a52";
-				PROVISIONING_PROFILE_SPECIFIER = "MacosNativeApplication-developer-id";
+				PROVISIONING_PROFILE = "9491756e-ac1c-4734-93c8-c9ad3b8da7ed";
+				PROVISIONING_PROFILE_SPECIFIER = "mac-devloper-id";
 				SWIFT_VERSION = 4.0;
 			};
 			name = Release;
