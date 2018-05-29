@@ -424,8 +424,8 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_IDENTITY = "Mac Developer";
-				CODE_SIGN_STYLE = Automatic;
+				CODE_SIGN_IDENTITY = "Developer ID Application";
+				CODE_SIGN_STYLE = Manual;
 				COMBINE_HIDPI_IMAGES = YES;
 				DEVELOPMENT_TEAM = R2L8TU8NEV;
 				INFOPLIST_FILE = MacosNativeApplication/Info.plist;
@@ -435,8 +435,8 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.evkhramk.MacosNativeApplication;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "";
-				PROVISIONING_PROFILE_SPECIFIER = "";
+				PROVISIONING_PROFILE = "9491756e-ac1c-4734-93c8-c9ad3b8da7ed";
+				PROVISIONING_PROFILE_SPECIFIER = "mac-devloper-id";
 				SWIFT_VERSION = 4.0;
 			};
 			name = Debug;
@@ -445,8 +445,8 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_IDENTITY = "Mac Developer";
-				CODE_SIGN_STYLE = Automatic;
+				CODE_SIGN_IDENTITY = "Developer ID Application";
+				CODE_SIGN_STYLE = Manual;
 				COMBINE_HIDPI_IMAGES = YES;
 				DEVELOPMENT_TEAM = R2L8TU8NEV;
 				INFOPLIST_FILE = MacosNativeApplication/Info.plist;
@@ -456,8 +456,8 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.evkhramk.MacosNativeApplication;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "";
-				PROVISIONING_PROFILE_SPECIFIER = "";
+				PROVISIONING_PROFILE = "9491756e-ac1c-4734-93c8-c9ad3b8da7ed";
+				PROVISIONING_PROFILE_SPECIFIER = "mac-devloper-id";
 				SWIFT_VERSION = 4.0;
 			};
 			name = Release;
